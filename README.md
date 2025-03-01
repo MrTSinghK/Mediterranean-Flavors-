@@ -19,4 +19,4 @@ A vibrant platform dedicated to sharing authentic Mediterranean recipes. Explore
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mediterranean-flavors.git
+   

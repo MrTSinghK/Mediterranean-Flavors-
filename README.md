@@ -19,4 +19,5 @@ A vibrant platform dedicated to sharing authentic Mediterranean recipes. Explore
 
 1. Clone the repository:
    ```bash
+   gh repo clone MrTSinghK/Mediterranean-Flavors-
    

@@ -1,4 +1,4 @@
-# Mediterranean Flavors
+[# Mediterranean Flavors
 
 ![image](https://github.com/user-attachments/assets/79cd1c79-17a3-4bf2-8632-4a7329f917c7)
 
@@ -21,3 +21,4 @@ A vibrant platform dedicated to sharing authentic Mediterranean recipes. Explore
    ```bash
    gh repo clone MrTSinghK/Mediterranean-Flavors-
    
+](http://127.0.0.1:3000/index.html)
